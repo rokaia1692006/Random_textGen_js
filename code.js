@@ -50,6 +50,7 @@ var before = null;
 function randomText(){
     while(1){
         var Random = Math.floor(Math.random()*lengthArr);
+        console.log(Random);
         if(Random != before){
             before = Random;
             break;
