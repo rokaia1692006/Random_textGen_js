@@ -21,6 +21,8 @@ body,html{
     font-size:35px;
     font-weight: 400;
     font-family: 'Times New Roman', Times, serif;
+    margin:5px;
+    padding:5px;
 }
 .btnBl{
    color:white;
